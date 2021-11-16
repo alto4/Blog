@@ -6,6 +6,7 @@
   margin: 2rem;
   padding: 1.5rem 0;
   background-color: #eee;
+  z-index: 100;
 }
 
 .sidebar .sidebar-container {
@@ -65,4 +66,5 @@
 .sidebar .social i {
   font-size: 1.5rem;
   margin-left: 1rem; 
+  cursor: pointer;
 }
